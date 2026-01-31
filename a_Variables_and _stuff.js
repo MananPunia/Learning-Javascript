@@ -9,4 +9,4 @@ Const - variable can be re declared or cant be updated, block scoped  usecase: p
 // var ab = 3;
 // var ab = 92;
 // let a = 0;
-// let a = 9; err
+// let a = 9; 
