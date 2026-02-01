@@ -1,3 +1,6 @@
+//So anythting to know before start is that in JS strings are immutable so any method or property of string wont change the strings but entirely return new value
+
+
 let str = "   Manan Punia";
 console.log(str); // spaces also included
 console.log(str.length);
